@@ -8,7 +8,8 @@
 <h2 align="left">About me</h2>
 
 ###
-<p align="left"> 📚 I'm currently learning Data Engineering and cloud technologies
+<p align="left"> I'm skilled in Power BI, SQL, Advanced Excel , Python , Data Storytelling, Data Modelling.
+  📚 I'm currently learning Data Engineering and cloud technologies.
   <br>🎯 Goals: I'm looking forward to the day I get involved in open source.<be>
 </p>
 
