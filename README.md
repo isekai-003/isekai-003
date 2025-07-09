@@ -1,13 +1,14 @@
 
 <h1 align="left">Hi there👋 This is Shamshuddin-Welcome to my GitHub!</h1>
-<p align="left">I'm a passionate DevOps Engineer from India.</p>
+
+<p align="left">I'm a passionate Data Analyst from India.</p>
 
 ###
 
 <h2 align="left">About me</h2>
 
 ###
-<p align="left"> 📚 I'm currently learning DevOps and cloud technologies
+<p align="left"> 📚 I'm currently learning Data Engineering and cloud technologies
   <br>🎯 Goals: I'm looking forward to the day I get involved in open source.<be>
 </p>
 
