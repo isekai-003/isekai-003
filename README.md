@@ -19,9 +19,8 @@
 
 # 💻 Tech Stack:
 
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" alt="excel logo" />
-<img width="12" />
-
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" height="40" alt="excel logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
